@@ -1,0 +1,15 @@
+
+node_modules/
+
+.env
+
+*.log
+
+dist/
+build/
+# Ignore git files
+.git/
+.gitignore
+# Ignore Docker-related files
+Dockerfile
+docker-compose.yml
